@@ -9,8 +9,8 @@ console.log("Exercise 1:", finalResult); // Expected: 24
 
 // Exercise 2: Case Sensitivity Test
 var projectIdentifier = "COMP484";
-// ProjectIdentifier = "JS_Advanced"; // ❌ Fails: JavaScript is case-sensitive; 'ProjectIdentifier' is a different identifier from 'projectIdentifier'.
-projectIdentifier = "JS_Advanced"; // ✅ Correct reassignment
+// ProjectIdentifier = "JS_Advanced"; // Fails: JavaScript is case-sensitive; 'ProjectIdentifier' is a different identifier from 'projectIdentifier'.
+projectIdentifier = "JS_Advanced"; // Correct reassignment
 console.log("Exercise 2:", projectIdentifier);
 
 // Exercise 3: String Quoting Challenge
